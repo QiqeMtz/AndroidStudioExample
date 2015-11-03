@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="title_activity_activity_add_texto">ActivityAddTexto</string>
+    <string name="title_activity_add_texto">Texto</string>
+    <string name="title_activity_texto_dinamico">Texto Dinamico</string>
+    
+    <string name="TituloDeMiAplicacion"> Curso Android Studio </string>
+    <string name="saludo">HOLA</string>
+    <string name="title_activity_alinear_elementos">Alinear Elementos</string>
+    <string name="title_activity_incluir_imagenes">Incluir Imagenes</string>
+    <string name="title_activity_interacciones">Interacciones</string>
+    <string name="title_activity_entrada_texto">Entrada de Texto</string>
+    <string name="title_activity_manejo_estilos">Manejo de Estilos</string>
+</resources>
